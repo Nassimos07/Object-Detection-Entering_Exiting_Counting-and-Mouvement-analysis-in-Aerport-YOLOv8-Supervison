@@ -34,6 +34,27 @@ Focused on inference, tracking, annotation, and reproducible local testing on sa
 - **Classification**: absolute or relative displacement marks each tracked person as processing, stopped, or moving
 - **Output**: annotated video written to `outputs/`
 
+## ✦ <span style="color:#1E90FF;">Demo</span>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/images/Both_classes_Absolute.gif" alt="Both classes absolute mode demo" width="100%" /></td>
+    <td align="center"><img src="assets/images/Both_classes_Relative.gif" alt="Both classes relative mode demo" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Both Classes, Absolute Mode</strong></td>
+    <td align="center"><strong>Both Classes, Relative Mode</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/images/Moving_only.gif" alt="Moving only demo" width="100%" /></td>
+    <td align="center"><img src="assets/images/Stopped_Olny.gif" alt="Stopped only demo" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Moving Only</strong></td>
+    <td align="center"><strong>Stopped Only</strong></td>
+  </tr>
+</table>
+
 ## ✦ <span style="color:#1E90FF;">Features</span>
 
 - Package-based refactor of the original notebook workflow
